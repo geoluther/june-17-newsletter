@@ -1,0 +1,206 @@
+<mjml>
+
+  <mj-head>
+    <mj-title>KGNU Summer 2017</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500" />
+
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif" />
+      <mj-text font-weight="300" font-size="16" color="#333" line-height="22px" />
+      <mj-section padding="0" />
+    </mj-attributes>
+
+    <mj-style>
+      a {
+        text-decoration: none;
+        color: #3498DB;
+      }
+
+      h3 {
+        font-weight: bold;
+        color: #3498DB;
+      }
+
+      h4 {
+        font-weight: bold;
+        margin-bottom: 5px;
+      }
+
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <!-- header section -->
+      <mj-section>
+        <mj-column width="60%">
+          <mj-text align="center" font-size="15px" font-weight="500">KGNU Summer 2017</mj-text>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-button font-size="11px" href="https://give.kgnu.org">Donate</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="35%">
+          <mj-image href="https://give.kgnu.org" src="http://objects-us-west-1.dream.io/email-images/newsletter/2017/05/kgnu-logo-sm.gif" />
+        </mj-column>
+
+        <mj-column width="65%">
+          <mj-text align="center" padding="10px" line-height="25px">
+            <h2>Summer Events and Happenings at KGNU</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="45%">
+          <mj-divider border-width="2px" border-color="#616161" />
+        </mj-column>
+      </mj-section>
+
+      <!-- end header section -->
+
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h3>KGNU Summer Mini Drive!</h3>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </mj-text>
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h4>Bike to Work Day -  Have Breakfast @ KGNU June 28th!</h4>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="35%">
+          <mj-image src="http://objects-us-west-1.dream.io/email-images/june-17/bike-to-work-17.jpg" />
+        </mj-column>
+        <mj-column width="65%">
+          <mj-text>
+            <a href="https://communitycycles.org/about/">Community Cycles</a> has organized more than 60 local businesses in Boulder to host breakfast and bike service stations to serve food and drinks for commuters on <strong>June 28th</strong> for <strong>Bike to Work Day</strong> from 6:30 to 9 a.m. KGNU is one of the breakfast stations!  Come win tickets to a concert or an annual membership and go on a tour to see how what you hear on air is made.<br><br>Ride (or walk) by our Boulder station at 4700 Walnut St. for breakfast June 28th, we’d love to see you!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h4>KGNU's 29th Annual Charles Sawtelle Memorial Mountain Jam</h4>
+            <h5>Gold Hill Inn, July 23rd. 11:30am-4:30pm</h5>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="35%">
+          <mj-image src="http://objects-us-west-1.dream.io/email-images/june-17/12a-Sawtelle-Mountain-Jam.jpg" />
+        </mj-column>
+
+        <mj-column width="65%">
+          <mj-text>
+            A KGNU tradition, "The Charles" is a family-friendly event for music fans who enjoy clear mountain air, dazzling acoustic music and great food in a spectacular outdoor setting. The festivities get started at 11:30am and run until 4:30pm on Sunday, July 23rd, and will feature music sets by <a href="http://laurielewis.com/">Laurie Lewis &amp; The Right Hands</a>, <a href="http://www.masontownmusic.com/">Masontown</a>, and <a href="https://thunderandrainmusic.com/">Thunder and Rain</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column >
+          <mj-text padding-top="0px">
+            Tickets are <strong>&#36;20</strong> for KGNU members, <strong>&#36;25</strong> for non-members and are available <a href="http://thecharles2017.brownpapertickets.com">online</a> or by calling KGNU at 303-449-4885 weekdays between 9:00am and 5:00pm. All ticket prices will be &#36;5 more  day of show. Children 12 and under are free. Food and beverages are available for purchase; they are not included in the price of admission. No pets or coolers.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h4>More Summer Music Happenings</h4>
+
+            <p>This summer marks our 10th year broadcasting live from RockyGrass [[ link ]], featuring Del McCoury Band, Sam Bush Bluegrass Band, Earls of Leicester, Infamous Stringdusters and many more, July 28-30th in Lyons.
+              <br><br>
+              In addition to our regular complete live stream of the festival via <a href="http://kgnu.org">KGNU.org</a> and <a href="http://www.afterfm.com/index.cfm/fuseaction/rocky.grass">AfterFM.com </a>, we’ll be broadcasting more of the music from the festival over our airwaves than ever before, We hope you’ll join us at the festival or through our broadcast for this exciting Colorado music event, now in its 45th year.
+              <br><br>
+              The following weekend, August 4-6, KGNU will also provide an AfterFM live stream of the <a href="http://arisefestival.com/">Arise Music Festival</a>. Check in with our <a href="http://www.afterfm.com/index.cfm/fuseaction/content.byTag/tagID/93">streaming page</a> for updates on our streaming schedule as the festival approaches.
+              <br><br>
+              These are only a few of the music-related events KGNU will be involved in this summer, so check out our <a href="http://www.afterfm.com/index.cfm/fuseaction/content.kgnuPresentsListings/showing/1">complete list</a> of KGNU concerts and outreach events in the coming months.</p>
+
+
+              <strong>KGNU’s Annual CD and Record Sale - Aug 27th</strong>
+
+<p>KGNU’s 2017 Record and CD Sale is happening Sun 8/27 and Fri 9/1 at our Denver home at 700 Kalamath St. Donate those unwanted records and CDs now, and pick up some new discoveries at the sale. See you there! Click <a href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1493482022">here</a> for more info.</p>
+
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-text>
+              <h3>News Updates</h3>
+
+              <h4>KGNU and the League of Women Voters of Boulder County</h4>
+              <p>KGNU is partnering with the League of Women Voters of Boulder County on a monthly commentary series called Making Democracy Work for All! which focuses on educating listeners on the workings of state and local government and letting them know how they can get involved at different stages of the political process. This month Mary Anna Dunn, Health Care Team Leader for the League of Women Voters of Boulder County, shares some thoughts about mental wellness. Click <a href="http://news.kgnu.org/2017/06/making-democracy-work-for-all-mental-health/">here</a> to read more. </p>
+              <h4>Laura Flanders Returns to KGNU</h4>
+              <p>The show has started broadcasting on Friday afternoons at 3.30pm on KGNU, in place of FSRN the weekly edition, which discontinued production in April.</p>
+              <p>Laura Flanders is no stranger to the KGNU airwaves as the former host of Counterspin and regular guest on other news shows from Democracy Now to Economic Update.</p>
+              <p>“The Laura Flanders show starts the people I think of as the brightest, forward thinkers from the worlds of arts, activism and entrepreneurship. People who have real reality based strategies and models for power shifting change.”</p>
+              Click <A href="http://news.kgnu.org/2017/06/laura-flanders-returns-to-kgnu/">here</a> to read more.
+
+                <h4>KGNU &amp; Boulder Bookstore Radio Bookclub</h4>
+                <p>KGNU is partnering with the Boulder Bookstore for our radio bookclub. Every month Arsen Kashkashian, head buyer at the Boulder Bookstore, will select a book to inspire the KGNU listening audience to read along together. We will then be joined live in studio by the author for a call in show and book discussion.</p>
+
+                <p>To celebrate Independent Bookstore day in April, we taped the bookclub at the Boulder Bookstore with author Peter Heller. This was Peter’s second visit, previously he joined us to talk about his novel The Painter.  This time he discussed his new book Celine. Click <a href="http://news.kgnu.org/2017/05/radio-bookclub-peter-heller-and-celine/">here</a> to listen to the interview.
+
+                <br><br>June's selection for the radio bookclub is <em>Land on Fire</em> by Gary Ferguson. The award-winning nature writer brings to life the extraordinary efforts of those responsible for fighting wildfires, and explains how nature reacts in the aftermath of flames. July’s selection is Alexandra Fuller’s latest book: <em>Quiet Until the Thaw</em>. Tune in on Thursday July 27th at 9am to hear Fuller’s interview at the bookclub.
+                </mj-text>
+              </mj-column>
+            </mj-section>
+
+            <mj-section>
+              <mj-column>
+                <mj-divider border-width="1px" border-color="#E0E0E0" />
+              </mj-column>
+            </mj-section>
+
+            <mj-section>
+              <mj-column width="35%">
+                <mj-image padding-right="5px" src="http://objects-us-west-1.dream.io/email-images/newsletter/2017/05/spring-car.jpg" href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1225997220"/>
+              </mj-column>
+              <mj-column width="65%">
+                <mj-text padding="0px 15px">
+                  <strong>Donate your old car and support KGNU</strong>
+                      If you’re planning to buy a new car, and your old one isn’t worth much as a trade, you might be surprised to learn that it may be worth more to you as a tax deduction. It can help you and your favorite radio station if you donate it to KGNU. We handle everything from towing…to the tax receipt. Just call <strong>1-844-KGNU-CAR</strong> and we’ll handle the rest.
+                </mj-text>
+              </mj-column>
+            </mj-section>
+
+
+
+            <mj-section background-color="#f3f3f3">
+              <mj-column width="70%">
+                <mj-text align="center"><a href="http://www.kgnu.org" target="_blank">KGNU.org</a>  |  <a href="http://www.afterFM.com" target="_blank">AfterFM.com</a>  |  <a href="http://news.kgnu.org" target="_blank">News.KGNU.org</a>
+                </mj-text>
+              </mj-column>
+
+              <mj-column width="30%">
+                <mj-button align="right" href="https://give.kgnu.org">Donate</mj-button>
+              </mj-column>
+            </mj-section>
+
+          </mj-container>
+        </mj-body>
+      </mjml>

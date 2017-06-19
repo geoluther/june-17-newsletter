@@ -1,0 +1,273 @@
+<mjml>
+
+  <mj-head>
+    <mj-title>KGNU May 2017 Updates</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500" />
+
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif" />
+      <mj-text font-weight="300" font-size="16" color="#333" line-height="22px" />
+      <mj-section padding="0" />
+    </mj-attributes>
+
+    <mj-style>
+      a {
+        text-decoration: none;
+        color: #3498DB;
+      }
+      h3 {
+        font-weight: bold;
+        color: #3498DB;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <!-- header section -->
+
+      <mj-section padding="20px 0">
+        <mj-column width="60%">
+          <mj-text font-weight="500">KGNU May 2017 Update</mj-text>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-button align="right" href="https://give.kgnu.org">Donate</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="35%">
+          <mj-image href="https://give.kgnu.org" src="http://objects-us-west-1.dream.io/email-images/newsletter/2017/05/kgnu-logo-sm.gif" />
+        </mj-column>
+
+        <mj-column width="65%">
+          <mj-text padding="10px 0px" line-height="25px">
+            <h2>Sweet, Sweet, Spring and Summer Events and Happenings at KGNU</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="45%">
+          <mj-divider border-width="2px" border-color="#616161" />
+        </mj-column>
+        <mj-column width="100%"></mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <h3>KGNU is a proud Arts in Society grant recipient!</h3>
+            <p>KGNU is honored to be a recipient of the first <a href="http://www.redlineart.org/arts-in-society/">Arts in Society</a> grant round linking the role of arts organizations and social change. Ray Rinaldi <a href="http://www.denverpost.com/2017/04/19/arts-society-grants-creative-industries/">writes more about the program</a> in the Denver Post.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    <mj-section>
+      <mj-column width="40%">
+        <mj-image padding-right="0 2px 0 10px" href="http://ggjalliance.org/13-colors" src="http://objects-us-west-1.dream.io/email-images/newsletter/2017/05/Meli_and_Karla.jpg" />
+      </mj-column>
+
+      <mj-column width="60%">
+        <mj-text padding="0 10px">
+          <h3>KGNU Brings the 13 Colors of Honduran Resistance Tour to Colorado May 20th</h3>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+        <p>Join KGNU for the Colorado leg of the national tour of two Honduran activists honoring the life of Berta Cáceres. Afro-indigenous autonomous feminist, poet and writer Melissa Cardoza and Karla Lara, an internationally recognized feminist who voices resistance through song and writing, will perform stories from Melissa’s book <a href="http://ggjalliance.org/13-colors">13 Colors of the Honduran Resistance</a> about women resisting brutal repression and finding unyielding hope. A post-performance dialogue will examine parallels between the current struggles in Honduras and the U.S.</p>
+
+        <p>“These stories of bravery, of struggle and pain, and ultimately of a resilience rooted in a love for freedom will grip your heart.” - Alicia Garza, Co-creator of the Black Lives Matter Network</p>
+
+        <p>This special event will be held at <strong>KGNU’s Denver location at 700 Kalamath</strong>, in the Santa Fe Arts District.  There will be a <strong>5pm live performance</strong> in Studio A and a reception afterwards on the second floor of the Denver Open Media / KGNU Building.</p>
+        </mj-text>
+
+        <mj-divider border-width="1px" border-color="#E0E0E0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column  width="100%">
+            <mj-text>
+            <h3>KGNU’s Annual Plant Sale - June 4th</h3>
+            </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+
+      <mj-column>
+        <mj-text>
+          It’s almost time for one of our favorite fundraisers of the year! KGNU’s Annual Plant Sale will be held on Sunday, June 4th from 9 am to 3 pm at KGNU’s Boulder headquarters located at 4700 Walnut Street. We will have a variety of plants, veggie starts, garden items, flats of herbs, perennials and more! We will also be accepting plant donations May 17-28th. Questions? Email sarah@kgnu.org or call 303.515.4522.
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column  width="100%">
+      <mj-text>
+        <h4>Pizza with a Purpose! May 8-May 14th* - Support KGNU!</h4>
+        <p>KGNU has partnered with California Pizza Kitchen for "Pizza with a Purpose!" I mean, who doesn’t love to indulge in some pizza pie every now and then? Well, you can support KGNU at any of the California Pizza Kitchen locations listed below between <strong>May 8-14th</strong>. Bring in this flier {{ link to flier, kgnu site }} or just tell your server at California Pizza Kitchen that you would like to donate 20% of your bill to KGNU!</p>
+
+        <p>It’s that easy to enjoy some pizza and support KGNU.</p>
+
+        <p><strong>Where and When: At these California Pizza Kitchen locations May 8-14th*</strong></p>
+
+        <ul>
+          <li>Broomfield - FlatIron Crossing, 1 W. Flatiron Cir., #1120, Broomfield, CO 80021</li>
+          <li>Boulder - 1711 29th Street #1180 Boulder, CO 80301</li>
+          <li>Park Meadows - 8343 S Park Meadows Center Dr, Littleton, CO 80124</li>
+          <li>Cherry Creek Shopping Center - 3000 E. First Ave. Sp. 185, Cherry Creek Mall, Denver, CO 80206 *(until until May 13th only)</li>
+        </ul>
+        <p><em>Click on image for printable version:</em></p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section>
+    <mj-column width="50%">
+      <mj-image href="http://objects-us-west-1.dream.io/email-images/newsletter/2017/05/PizzaWithAPurpose.jpg" src="http://objects-us-west-1.dream.io/email-images/newsletter/2017/05/PizzaWithAPurpose.jpg" />
+      <mj-divider border-width="1px" border-color="#E0E0E0" />
+    </mj-column>
+  </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h4>Burritos for a Cause! Illegal Pete’s on Colfax Supports KGNU on June 26th!</h4>
+          <p>
+            KGNU has partnered with Illegal Pete’s on Colfax in Denver for “Burritos for a Cause!” KGNU DJ, Groove Thief will be DJing from  <strong>5pm - Midnight on June 26th</strong> to party with Illegal Pete’s and KGNU. On this night from 5pm - midnight 50% of your bill will be donated to KGNU if mentioned. KGNU will be taking donations at our booth at the event as well. Eat some delicious Illegal Pete’s in Denver and support KGNU!
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h4>Bike to Work Day: Have Breakfast at KGNU June 26th!</h4>
+          <p>
+          <a href="https://communitycycles.org/">Community Cycles</a> has organized more than 60 local businesses in Boulder to host breakfast and bike service stations to serve food and drinks for commuters on Bike to Work Day  <strong>June 26th from 6:30 to 9 a.m.</strong> KGNU is again proud to be of the breakfast stations! Come win tickets to a concert or an annual membership and take a tour of our studios to see how the radio you hear everyday happens. Roll up to our Boulder studios at 4700 Walnut St. for breakfast June 26th.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0" />
+      </mj-column>
+    </mj-section>
+
+<mj-section>
+  <mj-column width="50%">
+    <mj-text>
+      <h4>Save The Date: KGNU's 29th Annual Charles Sawtelle Memorial Mountain Jam at the Gold Hill Inn on July 23rd!</h4>
+      <p>
+        We’re excited to welcome headliner <a href="http://laurielewis.com/">Laurie Lewis</a> and her  and along with local favorites <a href="http://www.masontownmusic.com/">Mason Town</a> and <a href="https://thunderandrainmusic.com/">Thunder &amp; Rain</a>. Click <a href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1493484837">here</a> for more information.
+      </p>
+      </mj-text>
+      </mj-column>
+
+      <mj-column width="50%">
+        <mj-text>
+          <h4>KGNU’s Radio Magazine (Program Guide) Coming out Soon!</h4>
+          <p>
+            KGNU’s <a href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1493486453">Annual Program Guide</a> will be ready to pick up the first week of June at the Boulder station, 4700 Walnut. The electronic version will be posted <a href="https://issuu.com/kgnu">here</a> the first week of June.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h4>A Call for Records and CDs! KGNU’s Annual CD and Record Sale - Aug 27th</h4>
+          <p>KGNU has revived our annual <a href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1493482022">Record and CD Sale</a>, taking place this year <strong>Sun 8/27 and Fri 9/1</strong> at our Denver home at 700 Kalamath St.</p>
+
+          <p>Please consider making a donation of your gently used audio treasures at either our Boulder or Denver studios during business hours, or call 303-825-5468 or email dave@kgnu.org to arrange a pick-up. Then come to the sale and explore some new-to-you sounds.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+     <mj-column>
+      <mj-text>
+          <h4 style="font-weight: bold; margin-top: 0; margin-bottom: 0">Nonprofit Spotlight</h4>
+      </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+      <mj-column width="30%">
+        <mj-image src="http://objects-us-west-1.dream.io/email-images/newsletter/2017/05/ConservationColorado-thumb.png" />
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text>
+          <p><a href=" http://conservationco.org/kgnu/">Conservation Colorado</a> is one of KGNU’s Nonprofit partners. Their mission is to protect Colorado’s land, air, and water for future generations. Click <a href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1493241241">here</a> for more.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h4>New Organizational Memberships!</h4>
+          <p>KGNU is a listener supported, volunteer powered community radio station. By becoming an individual, business or nonprofit member of KGNU you will support independent media and receive membership benefits at the same time.</p>
+
+          <p>As a <a href="https://give.kgnu.org/kgnu-nonprofit-membership/">KGNU Nonprofit</a> or <a href="https://give.kgnu.org/small-business-membership/">Small Business Member</a>, your organization will gain significant exposure across the Front Range through KGNU’s on-air, digital, and print media channels. For more information on KGNU’s new organizational membership levels and the benefits you will receive, visit <a href="https://give.kgnu.org">give.kgnu.org</a></p>
+
+          <p>Questions? Email sarah@kgnu.org or call 303.515.4522.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="0px">
+            <h4 padding-top="0px">Donate your old car and support KGNU</h4>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="30%">
+        <mj-image padding-right="5px" src="http://objects-us-west-1.dream.io/email-images/newsletter/2017/05/spring-car.jpg" href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1225997220"/>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="5px 15px">
+              If you’re planning to buy a new car, and your old one isn’t worth much as a trade, you might be surprised to learn that it may be worth more to you as a tax deduction. It can help you and your favorite radio station if you donate it to KGNU. We handle everything from towing…to the tax receipt. Just call <strong>1-844-KGNU-CAR</strong> and we’ll handle the rest.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+            <mj-divider border-width="1px" border-color="#E0E0E0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f3f3f3">
+      <mj-column width="70%">
+        <mj-text align="center"><a href="http://www.kgnu.org">KGNU.org</a>  |  <a href="http://www.afterFM.com">AfterFM.com</a>  |  <a href="http://news.kgnu.org">News.KGNU.org</a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="30%">
+        <mj-button align="right" href="https://give.kgnu.org">Donate</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f3f3f3">
+      <mj-column>
+        <mj-social display="facebook:url twitter:url instagram:url" text-mode="false" twitter-href="http://www.twitter.com/kgnu" facebook-href="http://www.facebook.com/kgnuradio" instagram-href="http://www.instagram.com/kgnu" />
+      </mj-column>
+    </mj-section>
+
+  </mj-container>
+</mj-body>
+</mjml>
