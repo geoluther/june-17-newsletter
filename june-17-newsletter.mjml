@@ -6,7 +6,7 @@
 
     <mj-attributes>
       <mj-all font-family="Roboto, Helvetica, sans-serif" />
-      <mj-text font-weight="300" font-size="16" color="#333" line-height="22px" />
+      <mj-text font-weight="300" font-size="15" color="#262626" line-height="20px" />
       <mj-section padding="0" />
     </mj-attributes>
 
@@ -34,7 +34,7 @@
       <!-- header section -->
       <mj-section>
         <mj-column width="60%">
-          <mj-text align="center" font-size="15px" font-weight="500">KGNU Summer 2017</mj-text>
+          <mj-text align="left" font-size="15px" font-weight="500">KGNU Summer 2017</mj-text>
         </mj-column>
         <mj-column width="40%">
           <mj-button font-size="11px" href="https://give.kgnu.org">Donate</mj-button>
@@ -42,19 +42,13 @@
       </mj-section>
 
       <mj-section>
-        <mj-column width="35%">
-          <mj-image href="https://give.kgnu.org" src="http://objects-us-west-1.dream.io/email-images/newsletter/2017/05/kgnu-logo-sm.gif" />
-        </mj-column>
-
-        <mj-column width="65%">
-          <mj-text align="center" padding="10px" line-height="25px">
-            <h2>Summer Events and Happenings at KGNU</h2>
-          </mj-text>
+        <mj-column width="80%">
+          <mj-image src="http://objects-us-west-1.dream.io/email-images/june-17/kgnu-instruments.jpg" />
         </mj-column>
       </mj-section>
 
       <mj-section>
-        <mj-column width="45%">
+        <mj-column width="80%">
           <mj-divider border-width="2px" border-color="#616161" />
         </mj-column>
       </mj-section>
@@ -64,7 +58,7 @@
       <mj-section>
         <mj-column>
           <mj-text>
-            <h3>KGNU Summer Mini Drive!</h3>
+            <h3>Summer Happenings at KGNU</h3>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </mj-text>
           <mj-divider border-width="1px" border-color="#E0E0E0" />
@@ -81,7 +75,7 @@
 
       <mj-section>
         <mj-column width="35%">
-          <mj-image src="http://objects-us-west-1.dream.io/email-images/june-17/bike-to-work-17.jpg" />
+          <mj-image src="http://objects-us-west-1.dream.io/email-images/june-17/bike-to-work-17.jpg" href="http://objects-us-west-1.dream.io/email-images/june-17/bike-to-work-17.jpg"/>
         </mj-column>
         <mj-column width="65%">
           <mj-text>
@@ -101,7 +95,8 @@
 
       <mj-section>
         <mj-column width="35%">
-          <mj-image src="http://objects-us-west-1.dream.io/email-images/june-17/12a-Sawtelle-Mountain-Jam.jpg" />
+          <mj-image src="http://objects-us-west-1.dream.io/email-images/june-17/kgnu-charles-2017.jpg" href="http://objects-us-west-1.dream.io/email-images/june-17/kgnu-charles-2017.jpg" />
+          <!-- <mj-image src="http://objects-us-west-1.dream.io/email-images/june-17/12a-Sawtelle-Mountain-Jam.jpg" /> -->
         </mj-column>
 
         <mj-column width="65%">
@@ -112,13 +107,13 @@
 
       </mj-column>
       <mj-column width="35%">
-      <mj-image src="http://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" href="http://www.brownpapertickets.com/event/2949345" width="182px"/>
-    </mj-column>
+        <mj-image src="http://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" href="http://www.brownpapertickets.com/event/2949345" width="182px"/>
+      </mj-column>
 
-        <mj-column width="65%">
-          <mj-text padding-top="0px">
-            Tickets are <strong>&#36;20</strong> for KGNU members, <strong>&#36;25</strong> for non-members and are available <a href="http://thecharles2017.brownpapertickets.com">online</a> or by calling KGNU at 303-449-4885 weekdays between 9:00am and 5:00pm. Tickets &#36;5 more day of show. Children 12 and under are free. Food and beverages are available for purchase. No pets or coolers.
-          </mj-text>
+      <mj-column width="65%">
+        <mj-text>
+          Tickets are <strong>&#36;20</strong> for KGNU members, <strong>&#36;25</strong> for non-members and are available <a href="http://thecharles2017.brownpapertickets.com">online</a> or by calling KGNU at 303-449-4885 weekdays between 9:00am and 5:00pm. Tickets &#36;5 more day of show. Children 12 and under are free. Food and beverages are available for purchase. No pets or coolers.
+        </mj-text>
       </mj-section>
 
 
@@ -133,7 +128,7 @@
           <mj-text>
             <h4>More Summer Music Happenings</h4>
 
-            <p>This summer marks our 10th year broadcasting live from RockyGrass [[ link ]], featuring Del McCoury Band, Sam Bush Bluegrass Band, Earls of Leicester, Infamous Stringdusters and many more, July 28-30th in Lyons.
+            <p>This summer marks our 10th year broadcasting live from <a href="http://www.bluegrass.com/rockygrass/">RockyGrass</a>, featuring Del McCoury, Sam Bush Bluegrass Band, Earls of Leicester, Infamous Stringdusters and many more, July 28-30th in Lyons.
               <br><br>
               In addition to our regular complete live stream of the festival via <a href="http://kgnu.org">KGNU.org</a> and <a href="http://www.afterfm.com/index.cfm/fuseaction/rocky.grass">AfterFM.com </a>, we’ll be broadcasting more of the music from the festival over our airwaves than ever before, We hope you’ll join us at the festival or through our broadcast for this exciting Colorado music event, now in its 45th year.
               <br><br>
@@ -143,7 +138,7 @@
 
               <strong>KGNU’s Annual CD and Record Sale - Aug 27th</strong>
 
-<p>KGNU’s 2017 Record and CD Sale is happening Sun 8/27 and Fri 9/1 at our Denver home at 700 Kalamath St. Donate those unwanted records and CDs now, and pick up some new discoveries at the sale. See you there! Click <a href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1493482022">here</a> for more info.</p>
+              <p>KGNU’s 2017 Record and CD Sale will be on <strong>Sun. August 27</strong> and <strong>Fri Sept. 1</strong> at our Denver home at 700 Kalamath St. Donate those unwanted records and CDs now, and pick up some new discoveries at the sale. See you there! Click <a href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1493482022">here</a> for more info.</p>
 
             </mj-text>
           </mj-column>
@@ -162,12 +157,12 @@
               <p>“The Laura Flanders show starts the people I think of as the brightest, forward thinkers from the worlds of arts, activism and entrepreneurship. People who have real reality based strategies and models for power shifting change.”</p>
               Click <A href="http://news.kgnu.org/2017/06/laura-flanders-returns-to-kgnu/">here</a> to read more.
 
-                <h4>KGNU &amp; Boulder Bookstore Radio Bookclub</h4>
-                <p>KGNU is partnering with the Boulder Bookstore for our radio bookclub. Every month Arsen Kashkashian, head buyer at the Boulder Bookstore, selects a book to inspire the KGNU listening audience to read along together. We will then be joined live in studio by the author for a book discussion.</p>
+              <h4>KGNU &amp; Boulder Bookstore Radio Bookclub</h4>
+              <p>KGNU is partnering with the Boulder Bookstore for our radio bookclub. Every month Arsen Kashkashian, head buyer at the Boulder Bookstore, selects a book to inspire the KGNU listening audience to read along together. We will then be joined live in studio by the author for a book discussion.</p>
 
-                <p>To celebrate Independent Bookstore day in April, we taped the bookclub at the Boulder Bookstore with author Peter Heller. This was Peter’s second visit, previously he joined us to talk about his novel The Painter.  This time he discussed his new book Celine. Click <a href="http://news.kgnu.org/2017/05/radio-bookclub-peter-heller-and-celine/">here</a> to listen to the interview.
+              <p>To celebrate Independent Bookstore day in April, we taped the bookclub at the Boulder Bookstore with author Peter Heller. This was Peter’s second visit, previously he joined us to talk about his novel The Painter.  This time he discussed his new book Celine. Click <a href="http://news.kgnu.org/2017/05/radio-bookclub-peter-heller-and-celine/">here</a> to listen to the interview.
 
-                <br><br>July’s selection is Alexandra Fuller’s latest book: <a href="http://www.boulderbookstore.net/event/alexandra-fuller-quiet-until-thaw">Quiet Until the Thaw</a>. Tune in on Thursday July 27th at 9am to hear Fuller’s interview at the bookclub.
+              <br><br>July’s selection is Alexandra Fuller’s latest book: <a href="http://www.boulderbookstore.net/event/alexandra-fuller-quiet-until-thaw">Quiet Until the Thaw</a>. Tune in on Thursday July 27th at 9am to hear Fuller’s interview at the bookclub.</p>
                 </mj-text>
               </mj-column>
             </mj-section>
@@ -185,7 +180,7 @@
               <mj-column width="65%">
                 <mj-text padding="0px 15px">
                   <strong>Donate your old car and support KGNU</strong>
-                      If you’re planning to buy a new car, and your old one isn’t worth much as a trade, you might be surprised to learn that it may be worth more to you as a tax deduction. It can help you and your favorite radio station if you donate it to KGNU. We handle everything from towing…to the tax receipt. Just call <strong>1-844-KGNU-CAR</strong> and we’ll handle the rest.
+                  If you’re planning to buy a new car, and your old one isn’t worth much as a trade, you might be surprised to learn that it may be worth more to you as a tax deduction. It can help you and your favorite radio station if you donate it to KGNU. We handle everything from towing…to the tax receipt. Just call <strong>1-844-KGNU-CAR</strong> and we’ll handle the rest.
                 </mj-text>
               </mj-column>
             </mj-section>
@@ -200,7 +195,7 @@
               <mj-column>
                 <mj-text align="center"><a href="http://www.kgnu.org" target="_blank">KGNU.org</a>  |  <a href="http://www.afterFM.com" target="_blank">AfterFM.com</a>  |  <a href="http://news.kgnu.org" target="_blank">News.KGNU.org</a>
                 </mj-text>
-                  <mj-button align="center" href="https://give.kgnu.org">Donate</mj-button>
+                <mj-button align="center" href="https://give.kgnu.org">Donate</mj-button>
               </mj-column>
             </mj-section>
 
