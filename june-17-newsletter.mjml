@@ -94,7 +94,7 @@
         <mj-column>
           <mj-text>
             <h4>KGNU's 29th Annual Charles Sawtelle Memorial Mountain Jam</h4>
-            <h5>Gold Hill Inn, July 23rd. 11:30am-4:30pm</h5>
+            <h5>With Laurie Lewis, Masontown, and Thunder and Rain.<br>Gold Hill Inn, July 23rd. 11:30am-4:30pm</h5>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -106,18 +106,21 @@
 
         <mj-column width="65%">
           <mj-text>
-            A KGNU tradition, "The Charles" is a family-friendly event for music fans who enjoy clear mountain air, dazzling acoustic music and great food in a spectacular outdoor setting. The festivities get started at 11:30am and run until 4:30pm on Sunday, July 23rd, and will feature music sets by <a href="http://laurielewis.com/">Laurie Lewis &amp; The Right Hands</a>, <a href="http://www.masontownmusic.com/">Masontown</a>, and <a href="https://thunderandrainmusic.com/">Thunder and Rain</a>.
+            "The Charles", a KGNU tradition, is a family-friendly event for music fans who enjoy clear mountain air, dazzling acoustic music, and great food in a spectacular setting. The festivities get started at 11:30am and run until 4:30pm on Sunday, July 23rd, featuring <a href="http://laurielewis.com/">Laurie Lewis &amp; The Right Hands</a>, <a href="http://www.masontownmusic.com/">Masontown</a>, and <a href="https://thunderandrainmusic.com/">Thunder and Rain</a>.
           </mj-text>
         </mj-column>
+
+      </mj-column>
+      <mj-column width="35%">
+      <mj-image src="http://www.brownpapertickets.com/g/6/BPT_buy_tickets_large.png" href="http://www.brownpapertickets.com/event/2949345" width="182px"/>
+    </mj-column>
+
+        <mj-column width="65%">
+          <mj-text padding-top="0px">
+            Tickets are <strong>&#36;20</strong> for KGNU members, <strong>&#36;25</strong> for non-members and are available <a href="http://thecharles2017.brownpapertickets.com">online</a> or by calling KGNU at 303-449-4885 weekdays between 9:00am and 5:00pm. Tickets &#36;5 more day of show. Children 12 and under are free. Food and beverages are available for purchase. No pets or coolers.
+          </mj-text>
       </mj-section>
 
-      <mj-section>
-        <mj-column >
-          <mj-text padding-top="0px">
-            Tickets are <strong>&#36;20</strong> for KGNU members, <strong>&#36;25</strong> for non-members and are available <a href="http://thecharles2017.brownpapertickets.com">online</a> or by calling KGNU at 303-449-4885 weekdays between 9:00am and 5:00pm. All ticket prices will be &#36;5 more  day of show. Children 12 and under are free. Food and beverages are available for purchase; they are not included in the price of admission. No pets or coolers.
-          </mj-text>
-        </mj-column>
-      </mj-section>
 
       <mj-section>
         <mj-column>
@@ -137,7 +140,6 @@
               The following weekend, August 4-6, KGNU will also provide an AfterFM live stream of the <a href="http://arisefestival.com/">Arise Music Festival</a>. Check in with our <a href="http://www.afterfm.com/index.cfm/fuseaction/content.byTag/tagID/93">streaming page</a> for updates on our streaming schedule as the festival approaches.
               <br><br>
               These are only a few of the music-related events KGNU will be involved in this summer, so check out our <a href="http://www.afterfm.com/index.cfm/fuseaction/content.kgnuPresentsListings/showing/1">complete list</a> of KGNU concerts and outreach events in the coming months.</p>
-
 
               <strong>KGNU’s Annual CD and Record Sale - Aug 27th</strong>
 
@@ -161,18 +163,18 @@
               Click <A href="http://news.kgnu.org/2017/06/laura-flanders-returns-to-kgnu/">here</a> to read more.
 
                 <h4>KGNU &amp; Boulder Bookstore Radio Bookclub</h4>
-                <p>KGNU is partnering with the Boulder Bookstore for our radio bookclub. Every month Arsen Kashkashian, head buyer at the Boulder Bookstore, will select a book to inspire the KGNU listening audience to read along together. We will then be joined live in studio by the author for a call in show and book discussion.</p>
+                <p>KGNU is partnering with the Boulder Bookstore for our radio bookclub. Every month Arsen Kashkashian, head buyer at the Boulder Bookstore, selects a book to inspire the KGNU listening audience to read along together. We will then be joined live in studio by the author for a book discussion.</p>
 
                 <p>To celebrate Independent Bookstore day in April, we taped the bookclub at the Boulder Bookstore with author Peter Heller. This was Peter’s second visit, previously he joined us to talk about his novel The Painter.  This time he discussed his new book Celine. Click <a href="http://news.kgnu.org/2017/05/radio-bookclub-peter-heller-and-celine/">here</a> to listen to the interview.
 
-                <br><br>June's selection for the radio bookclub is <em>Land on Fire</em> by Gary Ferguson. The award-winning nature writer brings to life the extraordinary efforts of those responsible for fighting wildfires, and explains how nature reacts in the aftermath of flames. July’s selection is Alexandra Fuller’s latest book: <em>Quiet Until the Thaw</em>. Tune in on Thursday July 27th at 9am to hear Fuller’s interview at the bookclub.
+                <br><br>July’s selection is Alexandra Fuller’s latest book: <a href="http://www.boulderbookstore.net/event/alexandra-fuller-quiet-until-thaw">Quiet Until the Thaw</a>. Tune in on Thursday July 27th at 9am to hear Fuller’s interview at the bookclub.
                 </mj-text>
               </mj-column>
             </mj-section>
 
             <mj-section>
               <mj-column>
-                <mj-divider border-width="1px" border-color="#E0E0E0" />
+                <mj-divider padding-bottom="20px" border-width="1px" border-color="#E0E0E0" />
               </mj-column>
             </mj-section>
 
@@ -188,16 +190,23 @@
               </mj-column>
             </mj-section>
 
-
+            <mj-section>
+              <mj-column>
+                <mj-divider padding="20px" border-width="1px" border-color="#E0E0E0" />
+              </mj-column>
+            </mj-section>
 
             <mj-section background-color="#f3f3f3">
-              <mj-column width="70%">
+              <mj-column>
                 <mj-text align="center"><a href="http://www.kgnu.org" target="_blank">KGNU.org</a>  |  <a href="http://www.afterFM.com" target="_blank">AfterFM.com</a>  |  <a href="http://news.kgnu.org" target="_blank">News.KGNU.org</a>
                 </mj-text>
+                  <mj-button align="center" href="https://give.kgnu.org">Donate</mj-button>
               </mj-column>
+            </mj-section>
 
-              <mj-column width="30%">
-                <mj-button align="right" href="https://give.kgnu.org">Donate</mj-button>
+            <mj-section background-color="#f3f3f3">
+              <mj-column>
+                <mj-social display="facebook:url twitter:url instagram:url" text-mode="false" twitter-href="http://www.twitter.com/kgnu" facebook-href="http://www.facebook.com/kgnuradio" instagram-href="http://www.instagram.com/kgnu" />
               </mj-column>
             </mj-section>
 
