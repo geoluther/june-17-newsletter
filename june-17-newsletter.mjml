@@ -88,7 +88,6 @@
         <mj-column>
           <mj-text>
             <h4>KGNU's 29th Annual Charles Sawtelle Memorial Mountain Jam</h4>
-            <h5>With Laurie Lewis, Masontown, and Thunder and Rain.<br>Gold Hill Inn, July 23rd. 11:30am-4:30pm</h5>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -101,7 +100,8 @@
 
         <mj-column width="65%">
           <mj-text>
-            "The Charles", a KGNU tradition, is a family-friendly event for music fans who enjoy clear mountain air, dazzling acoustic music, and great food in a spectacular setting. The festivities get started at 11:30am and run until 4:30pm on Sunday, July 23rd, featuring <a href="http://laurielewis.com/">Laurie Lewis &amp; The Right Hands</a>, <a href="http://www.masontownmusic.com/">Masontown</a>, and <a href="https://thunderandrainmusic.com/">Thunder and Rain</a>.
+            <strong>With <a href="http://laurielewis.com/">Laurie Lewis &amp; The Right Hands</a>, <a href="http://www.masontownmusic.com/">Masontown</a>, and <a href="https://thunderandrainmusic.com/">Thunder and Rain</a></strong><br>
+            <p><strong>"The Charles"</strong>, a KGNU tradition, is a family-friendly event for music fans who enjoy clear mountain air, dazzling acoustic music, and great food in a spectacular setting. The festivities get started at 11:30am and run until 4:30pm on Sunday, July 23rd.</p>
           </mj-text>
         </mj-column>
 
@@ -126,19 +126,21 @@
       <mj-section>
         <mj-column>
           <mj-text>
-            <h4>More Summer Music Happenings</h4>
+            <h3>More Summer Music Happenings</h3>
 
-            <p>This summer marks our 10th year broadcasting live from <a href="http://www.bluegrass.com/rockygrass/">RockyGrass</a>, featuring Del McCoury, Sam Bush Bluegrass Band, Earls of Leicester, Infamous Stringdusters and many more, July 28-30th in Lyons.
-              <br><br>
-              In addition to our regular complete live stream of the festival via <a href="http://kgnu.org">KGNU.org</a> and <a href="http://www.afterfm.com/index.cfm/fuseaction/rocky.grass">AfterFM.com </a>, we’ll be broadcasting more of the music from the festival over our airwaves than ever before, We hope you’ll join us at the festival or through our broadcast for this exciting Colorado music event, now in its 45th year.
-              <br><br>
-              The following weekend, August 4-6, KGNU will also provide an AfterFM live stream of the <a href="http://arisefestival.com/">Arise Music Festival</a>. Check in with our <a href="http://www.afterfm.com/index.cfm/fuseaction/content.byTag/tagID/93">streaming page</a> for updates on our streaming schedule as the festival approaches.
-              <br><br>
-              These are only a few of the music-related events KGNU will be involved in this summer, so check out our <a href="http://www.afterfm.com/index.cfm/fuseaction/content.kgnuPresentsListings/showing/1">complete list</a> of KGNU concerts and outreach events in the coming months.</p>
+            <h4>RockyGrass!</h4>
+            <p>This July 28-30th marks our 10th year broadcasting live from <a href="http://www.bluegrass.com/rockygrass/">RockyGrass</a>, featuring Del McCoury, Sam Bush Bluegrass Band, Earls of Leicester, Infamous Stringdusters and many more.</p>
+            <p>In addition to our regular complete live stream of the festival via <a href="http://kgnu.org">KGNU.org</a> and <a href="http://www.afterfm.com/index.cfm/fuseaction/rocky.grass">AfterFM.com </a>, we’ll be broadcasting more of the music from the festival over our airwaves than ever before, We hope you’ll join us at the festival or through our broadcast for this exciting Colorado music event, now in its 45th year.
+            </p>
 
-              <strong>KGNU’s Annual CD and Record Sale - Aug 27th</strong>
+            <h4>Arise!</h4>
+            <p>The following weekend, August 4-6, KGNU will also provide an AfterFM live stream of the <a href="http://arisefestival.com/">Arise Music Festival</a>. Check in with our <a href="http://www.afterfm.com/index.cfm/fuseaction/content.detail/contentID/121/pageTitle/Arise%20Music%20Festival%202017">streaming page</a> for updates on our streaming schedule as the festival approaches.</p>
 
-              <p>KGNU’s 2017 Record and CD Sale will be on <strong>Sun. August 27</strong> and <strong>Fri Sept. 1</strong> at our Denver home at 700 Kalamath St. Donate those unwanted records and CDs now, and pick up some new discoveries at the sale. See you there! Click <a href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1493482022">here</a> for more info.</p>
+            <p>These are only a few of the music-related events KGNU will be involved in this summer, so check out our <a href="http://www.afterfm.com/index.cfm/fuseaction/content.kgnuPresentsListings/showing/1">complete list</a> of KGNU concerts and outreach events in the coming months.</p>
+
+            <strong>KGNU’s Annual CD and Record Sale - Aug 27th</strong>
+
+            <p>KGNU’s <a href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1493482022">2017 Record and CD Sale</a> will be on <strong>Sun. August 27</strong> and <strong>Fri Sept. 1</strong> at our Denver home at 700 Kalamath St. Donate those unwanted records and CDs now, and pick up some new discoveries at the sale. See you there!</p>
 
             </mj-text>
           </mj-column>
@@ -146,11 +148,18 @@
 
         <mj-section>
           <mj-column>
+            <mj-divider padding-bottom="20px" border-width="1px" border-color="#E0E0E0" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
             <mj-text>
-              <h3>News Updates</h3>
+              <h3 margin-top="5px">News Updates</h3>
 
               <h4>KGNU and the League of Women Voters of Boulder County</h4>
-              <p>KGNU is partnering with the League of Women Voters of Boulder County on a monthly commentary series called Making Democracy Work for All! which focuses on educating listeners on the workings of state and local government and letting them know how they can get involved at different stages of the political process. This month Mary Anna Dunn, Health Care Team Leader for the League of Women Voters of Boulder County, shares some thoughts about mental wellness. Click <a href="http://news.kgnu.org/2017/06/making-democracy-work-for-all-mental-health/">here</a> to read more. </p>
+              <p>KGNU is partnering with the League of Women Voters of Boulder County on a  vmonthly commentary series called Making Democracy Work for All! which focuses on educating listeners on the workings of state and local government and letting them know how they can get involved at different stages of the political process. This month Mary Anna Dunn, Health Care Team Leader for the League of Women Voters of Boulder County, shares some thoughts about mental wellness. Click <a href="http://news.kgnu.org/2017/06/making-democracy-work-for-all-mental-health/">here</a> to read more.</p>
+
               <h4>Laura Flanders Returns to KGNU</h4>
               <p>The show has started broadcasting on Friday afternoons at 3.30pm on KGNU, in place of FSRN the weekly edition, which discontinued production in April.</p>
               <p>Laura Flanders is no stranger to the KGNU airwaves as the former host of Counterspin and regular guest on other news shows from Democracy Now to Economic Update.</p>
@@ -160,9 +169,9 @@
               <h4>KGNU &amp; Boulder Bookstore Radio Bookclub</h4>
               <p>KGNU is partnering with the Boulder Bookstore for our radio bookclub. Every month Arsen Kashkashian, head buyer at the Boulder Bookstore, selects a book to inspire the KGNU listening audience to read along together. We will then be joined live in studio by the author for a book discussion.</p>
 
-              <p>To celebrate Independent Bookstore day in April, we taped the bookclub at the Boulder Bookstore with author Peter Heller. This was Peter’s second visit, previously he joined us to talk about his novel The Painter.  This time he discussed his new book Celine. Click <a href="http://news.kgnu.org/2017/05/radio-bookclub-peter-heller-and-celine/">here</a> to listen to the interview.
+              <p>To celebrate Independent Bookstore day in April, we taped the bookclub at the Boulder Bookstore with author Peter Heller. This was Peter’s second visit, previously he joined us to talk about his novel The Painter.  This time he discussed his new book Celine. Click <a href="http://news.kgnu.org/2017/05/radio-bookclub-peter-heller-and-celine/">here</a> to listen to the interview.</p>
 
-              <br><br>July’s selection is Alexandra Fuller’s latest book: <a href="http://www.boulderbookstore.net/event/alexandra-fuller-quiet-until-thaw">Quiet Until the Thaw</a>. Tune in on Thursday July 27th at 9am to hear Fuller’s interview at the bookclub.</p>
+              <p>July’s selection is Alexandra Fuller’s latest book: <a href="http://www.boulderbookstore.net/event/alexandra-fuller-quiet-until-thaw">Quiet Until the Thaw</a>. Tune in on Thursday July 27th at 9am to hear Fuller’s interview at the bookclub.</p>
                 </mj-text>
               </mj-column>
             </mj-section>
@@ -177,6 +186,7 @@
               <mj-column width="35%">
                 <mj-image padding-right="5px" src="http://objects-us-west-1.dream.io/email-images/newsletter/2017/05/spring-car.jpg" href="http://kgnu.org/cgi-bin/moreinfo.py?Notice=1225997220"/>
               </mj-column>
+
               <mj-column width="65%">
                 <mj-text padding="0px 15px">
                   <strong>Donate your old car and support KGNU</strong>
